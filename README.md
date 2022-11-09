@@ -11,7 +11,7 @@ You can use the system appearance or the manually set mode ('light', 'dark'), wh
 ## Installation
 Install the module with pip:
 
-## Requirements```
+## Requirements
 1. CustomTkinter
 2. Tkinter
 
