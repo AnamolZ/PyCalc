@@ -10,15 +10,14 @@ You can use the system appearance or the manually set mode ('light', 'dark'), wh
 
 ## Installation
 Install the module with pip:
+Required Packages
+1. customtkinter
+2. tkinter
 
-## Requirements
-1. CustomTkinter
-2. Tkinter
-
-##Installation Process
-pip3 install customtkinter
-pip3 install tkinter or pip3 install tk
-
+For installing required packages
+pip install customtkinter
+pip install tkinter or pip install tk
+```
 pip3 install caliz
 ```
 **Update existing installation:** ```pip3 install caliz --upgrade```\
