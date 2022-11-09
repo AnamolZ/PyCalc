@@ -15,9 +15,9 @@ Required Packages
 2. tkinter
 
 For installing required packages
-pip install customtkinter
-pip install tkinter or pip install tk
 ```
+pip3 install customtkinter
+pip3 install tkinter or pip install tk
 pip3 install caliz
 ```
 **Update existing installation:** ```pip3 install caliz --upgrade```\
