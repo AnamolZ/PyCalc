@@ -1,6 +1,6 @@
 [PyPI](https://pypi.org/project/caliz/)
 
-# CALIZ CALCULATOR WITH Python UI-LIB
+# PYCALC
 
 ![](images/calculator.png)
 | _`calculator.py` Demo View_
